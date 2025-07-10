@@ -1,0 +1,32 @@
+.basic-setup {
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+}
+
+
+.main-content {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+}
+
+.card {
+    border: 1px solid red;
+    padding: 15px;
+    color: #fff;
+}
+
+.card-1 {
+    background: orange;
+    flex: 3;
+}
+
+.card-2 {
+    background: mediumseagreen;
+    flex: 6;
+}
+
+.card-3 {
+    background: blueviolet;
+    flex: 3;
+}
